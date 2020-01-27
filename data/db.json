@@ -1,4 +1,20 @@
 {
-    "categories":[] ,
-    "products": []
+  "categories": [
+    {
+      "name": "shoes,",
+      "display-name": "heels,",
+      "description": "high_heel",
+      "_id": 1
+    }
+  ],
+  "products": [
+    {
+      "category": "shoes",
+      "name": "Niki",
+      "display_name": "sport_shoes",
+      "description": "two cool",
+      "_id": 1
+    },
+    {}
+  ]
 }
